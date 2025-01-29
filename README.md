@@ -23,7 +23,7 @@ You can use custom emojis on Roblox! Alternatives for Twemoji (FOSS).
 - **<kbd>🏆</kbd>** Winner on nominations.
 
 #### ✨Clients:
-* <img src="https://i.ibb.co/4S2GBqw/2022-Site-Favicon.webp" alt="Roblox" width="17" height="17"/> [Roblox](http://www.roblox.com/) 
+* <img src="https://avatars.githubusercontent.com/u/4195619?s=200&v=4" alt="Roblox" width="17" height="17"/> [Roblox](http://www.roblox.com/) 
 * <img src="https://github.com/pizzaboxer/bloxstrap/raw/main/Images/Bloxstrap.png" alt="Bloxstrap" width="17" height="17"/> [Bloxstrap](http://github.com/pizzaboxer/bloxstrap) <sup>`FOSS`</sup>
 * <img src="https://github.com/returnrqt/fishstrap/raw/main/Images/Bloxstrap.png" alt="Fishstrap" width="17" height="17"/> [Fishstrap](http://github.com/returnrqt/fishstrap) <sup>`FOSS`</sup> <sup>`FORK`</sup>
 * <img src="https://raw.githubusercontent.com/MaximumADHD/Roblox-Studio-Mod-Manager/master/ProjectSrc/Resources/Logo.png" alt="RbxSModManager" width="17" height="17"/> [Roblox Studio Mod Manager](http://github.com/MaximumADHD/Roblox-Studio-Mod-Manager) <sup>`FOSS`</sup>
