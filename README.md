@@ -33,12 +33,16 @@ You can use custom emojis on Roblox! Alternatives for Twemoji (FOSS).
 * <img src="https://github.com/OrigamingWasTaken/appleblox/raw/main/.github/assets/logo.png" alt="AppleBlox" width="17" height="17"/> [AppleBlox](http://github.com/OrigamingWasTaken/appleblox) <sup>`FOSS`</sup>
 #### 🐧Linux:
 * <img src="https://github.com/vinegarhq/sober/raw/master/sober.svg" alt="Sober" width="17" height="17"/> [Sober](http://github.com/vinegarhq/sober) <sup>`FOSS`</sup>
+* <img src="https://raw.githubusercontent.com/xTrayambak/lucem/refs/heads/master/src/assets/lucem.png" alt="Lucem" width="17" height="17"/> [Lucem](https://github.com/xTrayambak/lucem) <sup>`FOSS`</sup> <sup>`FORK`</sup>
 * <img src="https://github.com/vinegarhq/vinegar/blob/master/data/icons/vinegar.svg" alt="Vinegar" width="17" height="17"/> [Vinegar](http://github.com/vinegarhq/vinegar) <sup>`FOSS`</sup>
 * <img src="https://gitlab.com/uploads/-/system/project/avatar/11688812/Grapejuice.png" alt="Grapejuice" width="17" height="17"/> [Grapejuice](http://gitlab.com/brinkervii/grapejuice) <sup>`FOSS`</sup>
 * <img src="https://github.com/Bugadinho/Cork/raw/master/resources/cork.svg" alt="Cork" width="17" height="17"/> [Cork](http://github.com/CorkHQ/Cork) <sup>`FOSS`</sup>
 #### ⌚Revivals:
 * <img src="https://github.com/NikSavchenk0/rbxcustom-fontemojis/assets/58150480/e3d1abc6-d172-4c62-9505-ce75393c0fee" alt="Limrev" width="17" height="17"/> [Limrev 2020L](http://www.roblox.cat/) <sup>`🪦`</sup>
 * <img src="https://img.itch.zone/aW1nLzEzMTU5MTUwLmpwZw==/315x250%23c/28t7d4.jpg" alt="RbxFD" width="17" height="17"/> [Roblox Filtering Disabled 2020L](http://jetray.itch.io/roblox-filtering-disabled) <sup>`🪦`</sup>
+#### 🗃️Others:
+* <img src="https://raw.githubusercontent.com/TheKliko/klikos-modloader/refs/heads/main/GitHub%20Files/Images/logo.png" alt="Kliko's Modloader" width="17" height="17"/> [Kliko's Modloader](https://github.com/TheKliko/klikos-modloader) <sup>`FOSS`</sup> <sup>`FORK`</sup>
+
 
 ## 📜To-Do
 *U - unicode version (minimal version unicode: 13)*
