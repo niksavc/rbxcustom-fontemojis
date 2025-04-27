@@ -99,7 +99,7 @@ You can use custom emojis on Roblox! Alternatives for Twemoji (FOSS).
 > 
 > **Which OS works with emoji**
 > 
-> Support any OS that can play Roblox. Fonts support the SVG format (100x100). **[COLRv0/COLRv1/SVGinOT]**.
+> Support any OS that can launch Roblox. Fonts support the SVG format (100x100). **[COLRv0/COLRv1/SVGinOT]**.
 > 
 > ***
 >
