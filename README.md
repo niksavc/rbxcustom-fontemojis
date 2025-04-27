@@ -8,7 +8,7 @@ You can use custom emojis on Roblox! Alternatives for Twemoji (FOSS).
 > Modification is now avabilable on [Bloxstrap](http://github.com/pizzaboxer/bloxstrap), [GameBanana](https://gamebanana.com/mods/455178).
 
 ## ✅Support Clients
-*only works clients since 2020L (November), not 2017M (July)*
+*only works clients since 2020L (September 25),<sub>`0.298.0.411923`</sub> not 2017M (July 14).<sub>`0.450.0.411923`</sub>*
 > [!WARNING]
 > **COLRv1** is temporarily no support on Roblox.
 
@@ -97,9 +97,9 @@ You can use custom emojis on Roblox! Alternatives for Twemoji (FOSS).
 > 
 > ***
 > 
-> **Only Windows**
+> **Which OS works with emoji**
 > 
-> Yes, only **Windows 7+** or **Android 13+**, im don't add support for another OS's. Fonts support format SVG (100×100) **[COLRv0/COLRv1]**.
+> Support any OS that can play Roblox. Fonts support the SVG format (100x100). **[COLRv0/COLRv1/SVGinOT]**.
 > 
 > ***
 >
