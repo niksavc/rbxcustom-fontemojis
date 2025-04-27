@@ -105,7 +105,7 @@ You can use custom emojis on Roblox! Alternatives for Twemoji (FOSS).
 >
 > **How2Install Custom EmojiFont**
 > 
-> version-id → content → fonts → <kbd>"TwemojiMozilla01.ttf"</kbd> (rename file) → paste custom font → rename <kbd>"TwemojiMozilla.ttf"</kbd> → launch Roblox.
+> version-id → content → fonts → <kbd>"TwemojiMozilla01.ttf"</kbd> (rename original file) → paste custom font → <kbd>"TwemojiMozilla.ttf"</kbd> (rename custom font) → launch Roblox.
 >
 > ***
 >
