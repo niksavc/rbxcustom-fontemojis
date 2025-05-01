@@ -26,7 +26,6 @@ You can use custom emojis on Roblox! Alternatives for Twemoji (FOSS).
 * <img src="https://avatars.githubusercontent.com/u/4195619?s=200&v=4" alt="Roblox" width="17" height="17"/> [Roblox](http://www.roblox.com/) 
 * <img src="https://github.com/pizzaboxer/bloxstrap/raw/main/Images/Bloxstrap.png" alt="Bloxstrap" width="17" height="17"/> [Bloxstrap](http://github.com/pizzaboxer/bloxstrap) <sup>`FOSS`</sup>
 * <img src="https://github.com/returnrqt/fishstrap/raw/main/Images/Bloxstrap.png" alt="Fishstrap" width="17" height="17"/> [Fishstrap](http://github.com/returnrqt/fishstrap) <sup>`FOSS`</sup> <sup>`FORK`</sup>
-* <img src="https://github.com/midaskira/Hellstrap/blob/ffd4c880b2711d4d91966bfdd06cdae4c74b0863/Images/Hellstrap.png" alt="Hellstrap" width="17" height="17"/> [Hellstrap](http://github.com/midaskira/Hellstrap) <sup>`FOSS`</sup> <sup>`FORK`</sup>
 * <img src="https://raw.githubusercontent.com/midaskira/Voidstrap/refs/heads/main/Bloxstrap/Voidstrap.png" alt="Hellstrap" width="15" height="17"/> [Voidstrap](https://github.com/midaskira/Voidstrap) <sup>`FOSS`</sup> <sup>`FORK`</sup>
 * <img src="https://raw.githubusercontent.com/MaximumADHD/Roblox-Studio-Mod-Manager/master/ProjectSrc/Resources/Logo.png" alt="RbxSModManager" width="17" height="17"/> [Roblox Studio Mod Manager](http://github.com/MaximumADHD/Roblox-Studio-Mod-Manager) <sup>`FOSS`</sup>
 * <img src="https://raw.githubusercontent.com/MaximumADHD/Roblox-Studio-Mod-Manager/master/ProjectSrc/Resources/Logo.png" alt="RbxSModManager" width="17" height="17"/> [Roblox Player Mod Manager](http://github.com/Malte0621/Roblox-Player-Mod-Manager) <sup>`🪦`</sup> <sup>`FOSS`</sup> <sup>`FORK`</sup>
@@ -136,4 +135,5 @@ You can use custom emojis on Roblox! Alternatives for Twemoji (FOSS).
 Early: January, February, March, April
 Mid: May, June, July, August
 Late: September, October, November, December
+* <img src="https://github.com/midaskira/Hellstrap/blob/ffd4c880b2711d4d91966bfdd06cdae4c74b0863/Images/Hellstrap.png" alt="Hellstrap" width="17" height="17"/> [Hellstrap](http://github.com/midaskira/Hellstrap) <sup>`FOSS`</sup> <sup>`FORK`</sup
 -->
