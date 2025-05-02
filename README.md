@@ -5,7 +5,8 @@
 # Custom Roblox EmojiFonts [<img src="assets/rbxcef-icon.png" width="200" align="right" alt="rbxcef-icon">]()
 You can use custom emojis on Roblox! Alternatives for Twemoji (FOSS).
 > [!IMPORTANT]
-> Modification is now avabilable on [Bloxstrap](http://github.com/pizzaboxer/bloxstrap), [GameBanana](https://gamebanana.com/mods/455178).
+> Modification is now avabilable on
+[![Bloxstrap](https://img.shields.io/badge/Bloxstrap-3D38C0?style=flat&logo=roblox&logoColor=white)](http://github.com/pizzaboxer/bloxstrap)  [![GameBanana](https://img.shields.io/badge/GameBanana-FFD700?style=flat&logo=gamebanana&logoColor=black)](https://gamebanana.com/mods/455178).
 
 ## ✅Support Clients
 *only works clients since 2020L (September 25)<sub>`0.450.0`</sub>, not 2017M (July 14)<sub>`0.298.1`</sub>.*
