@@ -121,10 +121,10 @@ You can use custom emojis on Roblox! Alternatives for Twemoji (FOSS).
 >
 > Yes, u can **fork** my project or **download**.
 
-
- <div align="right">
-   
-   [![Scroll to Top](https://img.shields.io/badge/Scroll_to_Top-008F8F?logo=paloaltosoftware&logoColor=white&style=for-the-badge&link=%23start-of-content)](#start-of-content)
+<div align="right">
+<table><td>
+<a href="#start-of-content">👆 Scroll to top</a>
+</td></table>
 </div>
 <!--
 * [Limrev 2020L (RIP)](http://www.roblox.cat/)
@@ -136,7 +136,4 @@ Early: January, February, March, April
 Mid: May, June, July, August
 Late: September, October, November, December
 * <img src="https://github.com/midaskira/Hellstrap/blob/ffd4c880b2711d4d91966bfdd06cdae4c74b0863/Images/Hellstrap.png" alt="Hellstrap" width="17" height="17"/> [Hellstrap](http://github.com/midaskira/Hellstrap) <sup>`FOSS`</sup> <sup>`FORK`</sup
-<table><td>
-<a href="#start-of-content">👆 Scroll to top</a>
-</td></table>
 -->
