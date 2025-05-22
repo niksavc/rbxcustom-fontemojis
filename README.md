@@ -33,7 +33,7 @@ You can use custom emojis on Roblox! Alternatives for Twemoji (FOSS).
 #### 🍎macOS:
 * <img src="https://github.com/OrigamingWasTaken/appleblox/raw/main/.github/assets/logo.png" alt="AppleBlox" width="17" height="17"/> [AppleBlox](http://github.com/OrigamingWasTaken/appleblox) <sup>`FOSS`</sup>
 #### 🐧Linux:
-* <img src="https://github.com/vinegarhq/sober/raw/master/sober.svg" alt="Sober" width="17" height="17"/> [Sober](http://github.com/vinegarhq/sober) <sup>`FOSS`</sup>
+* <img src="https://github.com/vinegarhq/sober/raw/master/sober.svg" alt="Sober" width="17" height="17"/> [Sober](http://github.com/vinegarhq/sober) <sup>`FORK`</sup>
 * <img src="https://github.com/equinoxhq/equinox/blob/master/assets/equinox.svg" alt="Equinox" width="17" height="17"/> [Equinox](https://github.com/xTrayambak/lucem) <sup>`FOSS`</sup> <sup>`FORK`</sup>
 * <img src="https://raw.githubusercontent.com/xTrayambak/lucem/refs/heads/master/src/assets/lucem.png" alt="Lucem" width="17" height="17"/> [Lucem](https://github.com/xTrayambak/lucem) <sup>`FOSS`</sup> <sup>`FORK`</sup> <sup>`🪦`</sup>
 * <img src="https://github.com/vinegarhq/vinegar/blob/master/data/icons/vinegar.svg" alt="Vinegar" width="17" height="17"/> [Vinegar](http://github.com/vinegarhq/vinegar) <sup>`FOSS`</sup>
