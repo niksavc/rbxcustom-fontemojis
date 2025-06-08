@@ -1,6 +1,5 @@
 # Linguist overrides
-*.md linguist-detectable=true
-*.md linguist-documentation=false
-# Font Linguist overrides
+*.md linguist-language=Markdown linguist-detectable=true
+*.md linguist-language=Markdown linguist-documentation=false
 *.ttf linguist-language=Glyph linguist-detectable=true
 *.ttf linguist-language=Glyph linguist-documentation=false
