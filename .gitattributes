@@ -1,4 +1,4 @@
 # Linguist overrides
 * text=auto eol=lf
 *.md text eol=lf linguist-vendored=false linguist-detectable=true linguist-language=Markdown
-*.ttf text eol=lf linguist-vendored=false linguist-detectable=true linguist-language=Glyph
+<--! *.ttf text eol=lf linguist-vendored=false linguist-detectable=true linguist-language=Glyph -->
