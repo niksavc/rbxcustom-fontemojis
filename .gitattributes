@@ -2,5 +2,5 @@
 *.md linguist-detectable=true
 *.md linguist-documentation=false
 # Font Linguist overrides
-*.ttf linguist-detectable=true
-*.ttf linguist-documentation=false
+*.ttf linguist-language: Glyph linguist-detectable=true
+*.ttf linguist-language: Glyph linguist-documentation=false
