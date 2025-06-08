@@ -1,5 +1,4 @@
 # Linguist overrides
-*.md linguist-language=Markdown linguist-detectable=true
-*.md linguist-language=Markdown linguist-documentation=false
-*.ttf linguist-language=Glyph linguist-detectable=true
-*.ttf linguist-language=Glyph linguist-documentation=false
+* text=auto eol=lf
+*.md text eol=lf linguist-vendored=false linguist-detectable=true linguist-language=Markdown
+*.ttf text eol=lf linguist-vendored=false linguist-detectable=true linguist-language=Glyph
