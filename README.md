@@ -36,15 +36,15 @@ You can use custom emojis on Roblox! Alternatives for Twemoji (FOSS).
 * <img src="https://github.com/vinegarhq/sober/raw/master/sober.svg" alt="Sober" width="17" height="17"/> [Sober](http://github.com/vinegarhq/sober) <sup>`FORK`</sup>
 * <img src="https://github.com/equinoxhq/equinox/blob/master/assets/equinox.svg" alt="Equinox" width="17" height="17"/> [Equinox](http://github.com/equinoxhq/equinox/) <sup>`FOSS`</sup>
 * <img src="https://raw.githubusercontent.com/Lutionhq/Lution/refs/heads/latest/src/Lution/files/lution1.svg" alt="Cork" width="17" height="17"/> [Lution](http://github.com/Lutionhq/Lution/) <sup>`FOSS`</sup>
-* <img src="https://raw.githubusercontent.com/xTrayambak/lucem/refs/heads/master/src/assets/lucem.png" alt="Lucem" width="17" height="17"/> [Lucem](http://github.com/xTrayambak/lucem) <sup>`FOSS`</sup> <sup>`🪦`</sup>
-* <img src="https://github.com/vinegarhq/vinegar/blob/master/data/icons/vinegar.svg" alt="Vinegar" width="17" height="17"/> [Vinegar](http://github.com/vinegarhq/vinegar) <sup>`FOSS`</sup> <sup>`FORK`</sup>
-* <img src="https://gitlab.com/uploads/-/system/project/avatar/11688812/Grapejuice.png" alt="Grapejuice" width="17" height="17"/> [Grapejuice](http://gitlab.com/brinkervii/grapejuice) <sup>`FOSS`</sup> <sup>`🪦`</sup>
-* <img src="https://github.com/Bugadinho/Cork/raw/master/resources/cork.svg" alt="Cork" width="17" height="17"/> [Cork](http://github.com/CorkHQ/Cork) <sup>`FOSS`</sup> <sup>`FORK`</sup>
+* <img src="https://raw.githubusercontent.com/xTrayambak/lucem/refs/heads/master/src/assets/lucem.png" alt="Lucem" width="17" height="17"/> [Lucem](http://github.com/xTrayambak/lucem) <sup>`🪦`</sup> <sup>`FOSS`</sup>
+* <img src="https://github.com/vinegarhq/vinegar/blob/master/data/icons/vinegar.svg" alt="Vinegar" width="17" height="17"/> [Vinegar](http://github.com/vinegarhq/vinegar) <sup>`FOSS`</sup>
+* <img src="https://gitlab.com/uploads/-/system/project/avatar/11688812/Grapejuice.png" alt="Grapejuice" width="17" height="17"/> [Grapejuice](http://gitlab.com/brinkervii/grapejuice) <sup>`🪦`</sup> <sup>`FOSS`</sup>
+* <img src="https://github.com/Bugadinho/Cork/raw/master/resources/cork.svg" alt="Cork" width="17" height="17"/> [Cork](http://github.com/CorkHQ/Cork) <sup>`FOSS`</sup>
 #### ⌚Revivals:
 * <img src="https://github.com/NikSavchenk0/rbxcustom-fontemojis/assets/58150480/e3d1abc6-d172-4c62-9505-ce75393c0fee" alt="Limrev" width="17" height="17"/> [Limrev 2020L](http://www.roblox.cat/) <sup>`🪦`</sup>
 * <img src="https://img.itch.zone/aW1nLzEzMTU5MTUwLmpwZw==/315x250%23c/28t7d4.jpg" alt="RbxFD" width="17" height="17"/> [Roblox Filtering Disabled 2020L](http://jetray.itch.io/roblox-filtering-disabled) <sup>`🪦`</sup>
 #### 🗃️Others:
-* <img src="https://raw.githubusercontent.com/klikos-modloader/klikos-modloader/refs/heads/main/images/logo.png" alt="Kliko's Modloader" width="17" height="17"/> [Kliko's Modloader](http://github.com/TheKliko/klikos-modloader) <sup>`FOSS`</sup> <sup>`FORK`</sup>
+* <img src="https://raw.githubusercontent.com/klikos-modloader/klikos-modloader/refs/heads/main/images/logo.png" alt="Kliko's Modloader" width="17" height="17"/> [Kliko's Modloader](http://github.com/TheKliko/klikos-modloader) <sup>`FOSS`</sup>
 
 
 ## 📜To-Do
