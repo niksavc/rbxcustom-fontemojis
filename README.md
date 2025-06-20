@@ -44,7 +44,7 @@ You can use custom emojis on Roblox! Alternatives for Twemoji (FOSS).
 * <img src="https://github.com/NikSavchenk0/rbxcustom-fontemojis/assets/58150480/e3d1abc6-d172-4c62-9505-ce75393c0fee" alt="Limrev" width="17" height="17"/> [Limrev 2020L](http://www.roblox.cat/) <sup>`🪦`</sup>
 * <img src="https://img.itch.zone/aW1nLzEzMTU5MTUwLmpwZw==/315x250%23c/28t7d4.jpg" alt="RbxFD" width="17" height="17"/> [Roblox Filtering Disabled 2020L](http://jetray.itch.io/roblox-filtering-disabled) <sup>`🪦`</sup>
 #### 🗃️Others:
-* <img src="https://raw.githubusercontent.com/klikos-modloader/klikos-modloader/refs/heads/main/images/logo.png" alt="Kliko's Modloader" width="17" height="17"/> [Kliko's Modloader](http://github.com/TheKliko/klikos-modloader) <sup>`FOSS`</sup> <sup>`FORK`</sup>
+* <img src="https://raw.githubusercontent.com/klikos-modloader/klikos-modloader/refs/heads/main/images/logo.png" alt="Kliko's Modloader" width="17" height="17"/> [Kliko's Modloader](http://github.com/TheKliko/klikos-modloader) <sup>`FOSS`</sup>
 
 
 ## 📜To-Do
