@@ -41,7 +41,7 @@ You can use custom emojis on Roblox! Alternatives for Twemoji (FOSS).
   - <img src="https://raw.githubusercontent.com/Lutionhq/Lution/refs/heads/latest/src/Lution/files/lution1.svg" alt="Cork" width="17" height="17"/> [Lution](http://github.com/Lutionhq/Lution/) <sup>`FOSS`</sup>
 - <img src="https://gitlab.com/uploads/-/system/project/avatar/11688812/Grapejuice.png" alt="Grapejuice" width="17" height="17"/> [Grapejuice](http://gitlab.com/brinkervii/grapejuice) <sup>`🪦`</sup> <sup>`FOSS`</sup>
   - <img src="https://github.com/vinegarhq/vinegar/blob/master/data/icons/vinegar.svg" alt="Vinegar" width="17" height="17"/> [Vinegar](http://github.com/vinegarhq/vinegar) <sup>`FOSS`</sup>
-  - <img src="https://github.com/Bugadinho/Cork/raw/master/resources/cork.svg" alt="Cork" width="17" height="17"/> [Cork](http://github.com/CorkHQ/Cork) <sup>`FOSS`</sup>
+  - <img src="https://github.com/Bugadinho/Cork/raw/master/resources/cork.svg" alt="Cork" width="17" height="17"/> [Cork](http://github.com/CorkHQ/Cork) <sup>`🪦`</sup> <sup>`FOSS`</sup>
 
 #### ⌚Revivals:
 - <img src="https://github.com/NikSavchenk0/rbxcustom-fontemojis/assets/58150480/e3d1abc6-d172-4c62-9505-ce75393c0fee" alt="Limrev" width="17" height="17"/> [Limrev 2020L](http://www.roblox.cat/) <sup>`🪦`</sup>
