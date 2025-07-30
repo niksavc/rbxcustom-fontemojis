@@ -122,7 +122,7 @@ You can use custom emojis on Roblox! Alternatives for Twemoji (FOSS).
 > 
 > **Which font editors supports color fonts**
 > 
-> ✅High-Logic FontCreator, ✅FontForge, ✅FontTools, ✅nanoemoji, ⚠️nototools, ⚠️IcoMoon, ⚠️Fonttello, ⚠️BirdFont, ⚠️Fontself Maker, 🚫FontLab, 🚫Glyphs.
+> ✅High-Logic FontCreator, ✅FontForge, ✅FontTools, ✅nanoemoji, ✅IcoMoon, ⚠️nototools, ⚠️Fonttello, ⚠️BirdFont, ⚠️Fontself Maker, 🚫FontLab, 🚫Glyphs.
 >
 > ***
 >
