@@ -83,20 +83,10 @@ You can use custom emojis on Roblox! Alternatives for Twemoji (FOSS).
 - [ ] Samsung Color Emoji (U: 14)
 
 ## 🖼Screenshots
-<p align="center">
-  <a href="#">
-    <img src="assets/screenshot1.png" width="75%">
-  </a>
-</p>
-<p align="center">
-  <a href="#">
-    <img src="assets/screenshot2.png" width="75%">
-  </a>
-</p>
-<p align="center">
-  <a href="#">
-    <img src="assets/screenshot3.png" width="75%">
-  </a>
+<p>
+  <a href="#"><img src="assets/screenshot1.png" width="345" height="345" hspace="5"/></a>
+  <a href="#"><img src="assets/screenshot2.png" width="335" height="335" hspace="5"/></a>
+  <a href="#"><img src="assets/screenshot3.png" width="290" height="290" hspace="5"/></a>
 </p>
 
 ## 🗣FAQ
