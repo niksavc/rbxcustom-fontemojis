@@ -67,6 +67,7 @@ You can use custom emojis on Roblox! Alternatives for Twemoji (FOSS).
 - [x] Emojione Color Emojis (U: 9) <sup>`🪦`</sup> <sup>`FOSS`</sup>
 - [x] Emojione BnW/Color Emojis SVGinOT (U: 12) <sup>`🪦`</sup> <sup>`FOSS`</sup> <sup>`FORK`</sup>
 - [x] Symbola BnW Emoji (U: 14) <sup>`💰u17`</sup>
+- [x] GNU Unifont Upper (U: 16) **[U: 17]** <sup>`📆`</sup> <sup>`FOSS`</sup>
 - [x] UnifontEx BnW Emoji (U: 15) **[U: 16]** <sup>`📆`</sup> <sup>`FOSS`</sup> <sup>`FORK`</sup>
 - [x] Docomo BnW Emoji (U: 3) <sup>`🪦`</sup> <sup>`FOSS`</sup>
 - [x] WadaLabMaruGo2004Emoji BnW Emoji (U: 17) **[U: 18]** <sup>`📆`</sup> <sup>`FOSS`</sup>
@@ -76,11 +77,7 @@ You can use custom emojis on Roblox! Alternatives for Twemoji (FOSS).
 - [ ] Catrinity Color Emoji (U: 16) **[U: 17]** <sup>`⚠`</sup> <sup>`📆`</sup> <sup>`FOSS`</sup>
 - [ ] Tossface Color Emoji (U: 14-15) **[COLRv0]** <sup>`⚠`</sup> <sup>`📆`</sup> <sup>`FOSS`</sup> <sup>`🏆Red Dot Award '23`</sup>
 - [ ] MSFluent Color Emoji 3D (U: 14-15) **[COLRv1]** <sup>`⚠`</sup> <sup>`📆`</sup> <sup>`FOSS`</sup> <sup>`🏆D&AD Award '23`</sup>
-- [ ] Apple Color Emoji (U: 15) **[COLRv1]** <sup>`📆`</sup>
-- [ ] Noto Color Emoji (U: 14)
-- [ ] Facebook/WhatsApp Color Emoji (U: 14)
-- [ ] JoyPixels 7.0 Color Emoji (U: 14)
-- [ ] Samsung Color Emoji (U: 14)
+- [ ] Telemoji Color Emoji (U: 15) **[COLRv1]** <sup>`📆`</sup>
 
 ## 🖼Screenshots
 <p>
