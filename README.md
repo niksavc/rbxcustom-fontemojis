@@ -48,7 +48,7 @@ You can use custom emojis on Roblox! Alternatives for Twemoji (FOSS).
 - <img src="https://img.itch.zone/aW1nLzEzMTU5MTUwLmpwZw==/315x250%23c/28t7d4.jpg" alt="RbxFD" width="17" height="17"/> [Roblox Filtering Disabled 2020L](http://jetray.itch.io/roblox-filtering-disabled) <sup>`🪦`</sup>
 
 #### 🗃️Others:
-- <img src="https://github.com/klikos-modloader/klikos-modloader/blob/main/images/logo.png" alt="Kliko's Modloader" width="17" height="17"/> [Kliko's Modloader](http://github.com/TheKliko/klikos-modloader) <sup>`FOSS`</sup>
+- <img src="https://github.com/klikos-modloader/klikos-modloader/blob/main/images/logo.png" alt="Kliko's Modloader" width="17" height="17"/> [Kliko's Modloader](http://github.com/TheKliko/klikos-modloader) <sup>`🪦`</sup> <sup>`FOSS`</sup>
 - <img src="https://github.com/KloBraticc/Plexity/blob/main/Images/plexityv2.png" alt="Plexity" width="17" height="17"/> [Plexity](http://github.com/KloBraticc/Plexity) <sup>`FOSS`</sup>
 - <img src="https://github.com/FrosSky/Chevstrap/blob/main/app/src/main/res/mipmap-xhdpi/ic_launcher.png" alt="Chevstrap" width="17" height="17"/> [Chevstrap](http://github.com/FrosSky/Chevstrap) <sup>`⚠`</sup> <sup>`FOSS`</sup>
 - <img src="https://github.com/bloxlaunch/app/blob/main/public/favicon.png" alt="Bloxlaunch" width="17" height="17"/> [Bloxlaunch](https://github.com/bloxlaunch/app) <sup>`FOSS`</sup>
