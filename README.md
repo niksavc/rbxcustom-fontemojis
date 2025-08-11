@@ -61,13 +61,13 @@ You can use custom emojis on Roblox! Alternatives for Twemoji (FOSS).
 - [x] MSWindows Color Emojis (8.0, 8.1, 10, 11.) (U: 6/14) <sup>`🪦`</sup>
 - [x] Noto BnW Emojis (U: 14/16) **[U: 17]** <sup>`📆`</sup> <sup>`FOSS`</sup>
 - [x] OpenMoji BnW Emojis (U: 16) **[U: 17]** <sup>`📆`</sup> <sup>`FOSS`</sup>
-- [x] Twemojit3chguy Color Emojis (U: 15) **[U: 16]** <sup>`📆`</sup> <sup>`FOSS`</sup> <sup>`FORK`</sup>
+- [x] Twemojit3chguy Color Emoji (U: 15) **[U: 16]** <sup>`📆`</sup> <sup>`FOSS`</sup> <sup>`FORK`</sup>
 - [x] TwemojiMozilla Color Emojis (U: 13) <sup>`🪦`</sup> <sup>`FOSS`</sup>
 - [x] Catmoji - modded Twemoji (U: 13) <sup>`🪦`</sup> <sup>`FOSS`</sup> <sup>`FORK`</sup>
-- [x] Emojione Color Emojis (U: 9) <sup>`🪦`</sup> <sup>`FOSS`</sup>
+- [x] Emojione Color Emoji (U: 9) <sup>`🪦`</sup> <sup>`FOSS`</sup>
 - [x] Emojione BnW/Color Emojis SVGinOT (U: 12) <sup>`🪦`</sup> <sup>`FOSS`</sup> <sup>`FORK`</sup>
 - [x] Symbola BnW Emoji (U: 14) <sup>`💰u17`</sup>
-- [x] GNU Unifont Upper (U: 16) **[U: 17]** <sup>`📆`</sup> <sup>`FOSS`</sup>
+- [x] GNU Unifont Upper BnW Emoji (U: 16) **[U: 17]** <sup>`📆`</sup> <sup>`FOSS`</sup>
 - [x] UnifontEx BnW Emoji (U: 15) **[U: 16]** <sup>`📆`</sup> <sup>`FOSS`</sup> <sup>`FORK`</sup>
 - [x] Docomo BnW Emoji (U: 3) <sup>`🪦`</sup> <sup>`FOSS`</sup>
 - [x] WadaLabMaruGo2004Emoji BnW Emoji (U: 17) **[U: 18]** <sup>`📆`</sup> <sup>`FOSS`</sup>
