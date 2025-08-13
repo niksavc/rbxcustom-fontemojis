@@ -36,7 +36,7 @@ You can use custom emojis on Roblox! Alternatives for Twemoji (FOSS).
 
 #### 🐧Linux:
 - <img src="https://github.com/vinegarhq/sober/blob/master/sober.svg" alt="Sober" width="17" height="17"/> [Sober](http://github.com/vinegarhq/sober)
-  - <img src="https://github.com/equinoxhq/equinox/blob/master/assets/equinox.svg" alt="Equinox" width="17" height="17"/> [Equinox](http://github.com/equinoxhq/equinox/) <sup>`FOSS`</sup>
+  - <img src="https://github.com/equinoxhq/equinox/blob/master/assets/equinox.svg" alt="Equinox" width="17" height="17"/> [Equinox](http://github.com/equinoxhq/equinox/) <sup>`🪦`</sup> <sup>`FOSS`</sup>
   - <img src="https://raw.githubusercontent.com/xTrayambak/lucem/refs/heads/master/src/assets/lucem.png" alt="Lucem" width="17" height="17"/> [Lucem](http://github.com/xTrayambak/lucem) <sup>`🪦`</sup> <sup>`FOSS`</sup>
   - <img src="https://github.com/Wookhq/Lution/blob/latest/src/Lution/files/lution1.svg" alt="Lution" width="17" height="17"/> [Lution](http://github.com/Lutionhq/Lution/) <sup>`FOSS`</sup>
 - <img src="https://gitlab.com/uploads/-/system/project/avatar/11688812/Grapejuice.png" alt="Grapejuice" width="17" height="17"/> [Grapejuice](http://gitlab.com/brinkervii/grapejuice) <sup>`🪦`</sup> <sup>`FOSS`</sup>
