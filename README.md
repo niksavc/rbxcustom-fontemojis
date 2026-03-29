@@ -49,7 +49,6 @@ You can use custom emojis on Roblox! Alternatives for Twemoji (FOSS).
 
 #### 🗃️Others:
 - <img src="https://github.com/klikos-modloader/klikos-modloader/blob/main/images/logo.png" alt="Kliko's Modloader" width="17" height="17"/> [Kliko's Modloader](http://github.com/TheKliko/klikos-modloader) <sup>`🪦`</sup> <sup>`FOSS`</sup>
-- <img src="https://github.com/KloBraticc/Plexity/blob/main/Images/plexityv2.png" alt="Plexity" width="17" height="17"/> [Plexity](http://github.com/KloBraticc/Plexity) <sup>`FOSS`</sup>
 - <img src="https://github.com/FrosSky/Chevstrap/blob/v1.9/app/src/main/res/drawable-xhdpi/chevstrap_logo.png" alt="Chevstrap" width="17" height="17"/> [Chevstrap](http://github.com/FrosSky/Chevstrap) <sup>`⚠`</sup> <sup>`FOSS`</sup>
 - <img src="https://github.com/bloxlaunch/app/blob/main/public/favicon.png" alt="Bloxlaunch" width="17" height="17"/> [Bloxlaunch](https://github.com/bloxlaunch/app) <sup>`FOSS`</sup>
 - <img src="https://github.com/massimopaganigh/Sirstrap/blob/main/images/Sirstrap.png" alt="Sirstrap" width="17" height="17"/> [Sirstrap](http://github.com/massimopaganigh/Sirstrap) <sup>`FOSS`</sup>
@@ -140,3 +139,4 @@ Mid: May, June, July, August
 Late: September, October, November, December
 * <img src="https://github.com/midaskira/Hellstrap/blob/ffd4c880b2711d4d91966bfdd06cdae4c74b0863/Images/Hellstrap.png" alt="Hellstrap" width="17" height="17"/> [Hellstrap](http://github.com/midaskira/Hellstrap) <sup>`FOSS`</sup> <sup>`FORK`</sup
 -->
+<!-- -- <img src="https://github.com/KloBraticc/Plexity/blob/main/Images/plexityv2.png" alt="Plexity" width="17" height="17"/> [Plexity](http://github.com/KloBraticc/Plexity) <sup>`FOSS`</sup> -->
