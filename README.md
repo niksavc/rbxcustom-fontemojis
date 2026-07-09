@@ -24,34 +24,34 @@ You can use custom emojis on Roblox! Alternatives for Twemoji (FOSS).
 - **<kbd>🏆</kbd>** Winner on nominations.
 
 #### ✨Clients:
-- <img src="https://avatars.githubusercontent.com/u/4195619?s=200&v=4" alt="Roblox" width="17" height="17"/> [Roblox](http://www.roblox.com/) 
-- <img src="https://github.com/pizzaboxer/bloxstrap/blob/main/Images/Bloxstrap.png" alt="Bloxstrap" width="17" height="17"/> [Bloxstrap](http://github.com/pizzaboxer/bloxstrap) <sup>`FOSS`</sup>
-  - <img src="https://github.com/returnrqt/fishstrap-1/blob/main/Images/Fishstrap.png" alt="Fishstrap" width="17" height="17"/> [Fishstrap](http://github.com/returnrqt/fishstrap-1) <sup>`FOSS`</sup> <sup>`FORK`</sup>
-  - <img src="https://github.com/voidstrap/Voidstrap/blob/main/Bloxstrap/Voidstrap.png" alt="Voidstrap" width="15" height="17"/> [Voidstrap](http://github.com/midaskira/Voidstrap) <sup>`FOSS`</sup> <sup>`FORK`</sup>
-- <img src="https://github.com/MaximumADHD/Roblox-Studio-Mod-Manager/blob/main/ProjectSrc/Resources/Logo.png" alt="RbxSModManager" width="17" height="17"/> [Roblox Studio Mod Manager](http://github.com/MaximumADHD/Roblox-Studio-Mod-Manager) <sup>`FOSS`</sup>
-  - <img src="https://github.com/MaximumADHD/Roblox-Studio-Mod-Manager/blob/main/ProjectSrc/Resources/Logo.png" alt="RbxSModManager" width="17" height="17"/> [Roblox Player Mod Manager](http://github.com/Malte0621/Roblox-Player-Mod-Manager) <sup>`🪦`</sup> <sup>`FOSS`</sup> <sup>`FORK`</sup>
+- <img src="https://github.com/niksavc/rbxcustom-fontemojis/blob/main/assets/icons/roblox.png" alt="Roblox" width="17" height="17"/> [Roblox](http://www.roblox.com/) 
+- <img src="https://github.com/niksavc/rbxcustom-fontemojis/blob/main/assets/icons/Bloxstrap.png" alt="Bloxstrap" width="17" height="17"/> [Bloxstrap](http://github.com/pizzaboxer/bloxstrap) <sup>`FOSS`</sup>
+  - <img src="https://github.com/niksavc/rbxcustom-fontemojis/blob/main/assets/icons/Fishstrap.png" alt="Fishstrap" width="17" height="17"/> [Fishstrap](http://github.com/returnrqt/fishstrap-1) <sup>`FOSS`</sup> <sup>`FORK`</sup>
+  - <img src="https://github.com/niksavc/rbxcustom-fontemojis/blob/main/assets/icons/Voidstrap.png" alt="Voidstrap" width="15" height="17"/> [Voidstrap](http://github.com/midaskira/Voidstrap) <sup>`FOSS`</sup> <sup>`FORK`</sup>
+- <img src="https://github.com/niksavc/rbxcustom-fontemojis/blob/main/assets/icons/rsmm.png" alt="RbxSModManager" width="17" height="17"/> [Roblox Studio Mod Manager](http://github.com/MaximumADHD/Roblox-Studio-Mod-Manager) <sup>`FOSS`</sup>
+  - <img src="https://github.com/niksavc/rbxcustom-fontemojis/blob/main/assets/icons/rsmm.png" alt="RbxSModManager" width="17" height="17"/> [Roblox Player Mod Manager](http://github.com/Malte0621/Roblox-Player-Mod-Manager) <sup>`🪦`</sup> <sup>`FOSS`</sup> <sup>`FORK`</sup>
 
 #### 🍎macOS:
 - <img src="https://github.com/OrigamingWasTaken/appleblox/blob/main/.github/assets/logo.png" alt="AppleBlox" width="17" height="17"/> [AppleBlox](http://github.com/OrigamingWasTaken/appleblox) <sup>`FOSS`</sup>
 
 #### 🐧Linux:
-- <img src="https://github.com/vinegarhq/sober/blob/master/sober.svg" alt="Sober" width="17" height="17"/> [Sober](http://github.com/vinegarhq/sober)
-  - <img src="https://github.com/equinoxhq/equinox/blob/master/assets/equinox.svg" alt="Equinox" width="17" height="17"/> [Equinox](http://github.com/equinoxhq/equinox/) <sup>`🪦`</sup> <sup>`FOSS`</sup>
-  - <img src="https://github.com/equinoxhq/lucem/blob/master/assets/icons/lucem.svg" alt="Lucem" width="17" height="17"/> [Lucem](http://github.com/xTrayambak/lucem) <sup>`🪦`</sup> <sup>`FOSS`</sup>
-  - <img src="https://github.com/Wookhq/Lution/blob/latest/src/Lution/files/lution1.svg" alt="Lution" width="17" height="17"/> [Lution](http://github.com/Lutionhq/Lution/) <sup>`FOSS`</sup>
-- <img src="https://gitlab.com/uploads/-/system/project/avatar/11688812/Grapejuice.png" alt="Grapejuice" width="17" height="17"/> [Grapejuice](http://gitlab.com/brinkervii/grapejuice) <sup>`🪦`</sup> <sup>`FOSS`</sup>
-  - <img src="https://github.com/vinegarhq/vinegar/blob/master/data/icons/vinegar.svg" alt="Vinegar" width="17" height="17"/> [Vinegar](http://github.com/vinegarhq/vinegar) <sup>`FOSS`</sup>
-  - <img src="https://github.com/Bugadinho/Cork/raw/master/resources/cork.svg" alt="Cork" width="17" height="17"/> [Cork](http://github.com/CorkHQ/Cork) <sup>`🪦`</sup> <sup>`FOSS`</sup>
+- <img src="https://github.com/niksavc/rbxcustom-fontemojis/blob/main/assets/icons/sober.svg" alt="Sober" width="17" height="17"/> [Sober](http://github.com/vinegarhq/sober)
+  - <img src="https://github.com/niksavc/rbxcustom-fontemojis/blob/main/assets/icons/equinox.svg" alt="Equinox" width="17" height="17"/> [Equinox](http://github.com/equinoxhq/equinox/) <sup>`🪦`</sup> <sup>`FOSS`</sup>
+  - <img src="https://github.com/niksavc/rbxcustom-fontemojis/blob/main/assets/icons/lucem.svg" alt="Lucem" width="17" height="17"/> [Lucem](http://github.com/xTrayambak/lucem) <sup>`🪦`</sup> <sup>`FOSS`</sup>
+  - <img src="https://github.com/niksavc/rbxcustom-fontemojis/blob/main/assets/icons/lution1.svg" alt="Lution" width="17" height="17"/> [Lution](http://github.com/Lutionhq/Lution/) <sup>`FOSS`</sup>
+- <img src="https://github.com/niksavc/rbxcustom-fontemojis/blob/main/assets/icons/grapejuice.png" alt="Grapejuice" width="17" height="17"/> [Grapejuice](http://gitlab.com/brinkervii/grapejuice) <sup>`🪦`</sup> <sup>`FOSS`</sup>
+  - <img src="https://github.com/niksavc/rbxcustom-fontemojis/blob/main/assets/icons/vinegar.svg" alt="Vinegar" width="17" height="17"/> [Vinegar](http://github.com/vinegarhq/vinegar) <sup>`FOSS`</sup>
+  - <img src="https://github.com/niksavc/rbxcustom-fontemojis/blob/main/assets/icons/cork.svg" alt="Cork" width="17" height="17"/> [Cork](http://github.com/CorkHQ/Cork) <sup>`🪦`</sup> <sup>`FOSS`</sup>
 
 #### ⌚Revivals:
-- <img src="https://github.com/NikSavchenk0/rbxcustom-fontemojis/assets/58150480/e3d1abc6-d172-4c62-9505-ce75393c0fee" alt="Limrev" width="17" height="17"/> [Limrev 2020L](http://www.roblox.cat/) <sup>`🪦`</sup>
-- <img src="https://img.itch.zone/aW1nLzEzMTU5MTUwLmpwZw==/315x250%23c/28t7d4.jpg" alt="RbxFD" width="17" height="17"/> [Roblox Filtering Disabled 2020L](http://jetray.itch.io/roblox-filtering-disabled) <sup>`🪦`</sup>
+- <img src="https://github.com/niksavc/rbxcustom-fontemojis/blob/main/assets/icons/limborev.png" alt="Limrev" width="17" height="17"/> [Limrev 2020L](http://www.roblox.cat/) <sup>`🪦`</sup>
+- <img src="https://github.com/niksavc/rbxcustom-fontemojis/blob/main/assets/icons/rfd.png" alt="RbxFD" width="17" height="17"/> [Roblox Filtering Disabled 2020L](http://jetray.itch.io/roblox-filtering-disabled) <sup>`🪦`</sup>
 
 #### 🗃️Others:
-- <img src="https://github.com/klikos-modloader/klikos-modloader/blob/main/images/logo.png" alt="Kliko's Modloader" width="17" height="17"/> [Kliko's Modloader](http://github.com/TheKliko/klikos-modloader) <sup>`🪦`</sup> <sup>`FOSS`</sup>
-- <img src="https://github.com/FrosSky/Chevstrap/blob/v1.9/app/src/main/res/drawable-xhdpi/chevstrap_logo.png" alt="Chevstrap" width="17" height="17"/> [Chevstrap](http://github.com/FrosSky/Chevstrap) <sup>`⚠`</sup> <sup>`FOSS`</sup>
-- <img src="https://github.com/bloxlaunch/app/blob/main/public/favicon.png" alt="Bloxlaunch" width="17" height="17"/> [Bloxlaunch](https://github.com/bloxlaunch/app) <sup>`FOSS`</sup>
-- <img src="https://github.com/massimopaganigh/Sirstrap/blob/main/images/Sirstrap.png" alt="Sirstrap" width="17" height="17"/> [Sirstrap](http://github.com/massimopaganigh/Sirstrap) <sup>`FOSS`</sup>
+- <img src="https://github.com/niksavc/rbxcustom-fontemojis/blob/main/assets/icons/klikos-logo.png" alt="Kliko's Modloader" width="17" height="17"/> [Kliko's Modloader](http://github.com/TheKliko/klikos-modloader) <sup>`🪦`</sup> <sup>`FOSS`</sup>
+- <img src="https://github.com/niksavc/rbxcustom-fontemojis/blob/main/assets/icons/chevstrap_logo.png" alt="Chevstrap" width="17" height="17"/> [Chevstrap](http://github.com/FrosSky/Chevstrap) <sup>`⚠`</sup> <sup>`FOSS`</sup>
+- <img src="https://github.com/niksavc/rbxcustom-fontemojis/blob/main/assets/icons/bloxlaunch.png" alt="Bloxlaunch" width="17" height="17"/> [Bloxlaunch](https://github.com/bloxlaunch/app) <sup>`FOSS`</sup>
+- <img src="https://github.com/niksavc/rbxcustom-fontemojis/blob/main/assets/icons/SirstrapIcon.png" alt="Sirstrap" width="17" height="17"/> [Sirstrap](http://github.com/massimopaganigh/Sirstrap) <sup>`FOSS`</sup>
 
 
 ## 📜To-Do
