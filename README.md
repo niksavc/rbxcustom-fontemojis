@@ -26,7 +26,7 @@ You can use custom emojis on Roblox! Alternatives for Twemoji (FOSS).
 #### ✨Clients:
 - <img src="https://avatars.githubusercontent.com/u/4195619?s=200&v=4" alt="Roblox" width="17" height="17"/> [Roblox](http://www.roblox.com/) 
 - <img src="https://github.com/pizzaboxer/bloxstrap/blob/main/Images/Bloxstrap.png" alt="Bloxstrap" width="17" height="17"/> [Bloxstrap](http://github.com/pizzaboxer/bloxstrap) <sup>`FOSS`</sup>
-  - <img src="https://github.com/returnrqt/fishstrap/blob/main/Images/Fishstrap.png" alt="Fishstrap" width="17" height="17"/> [Fishstrap](http://github.com/returnrqt/fishstrap) <sup>`FOSS`</sup> <sup>`FORK`</sup>
+  - <img src="https://github.com/returnrqt/fishstrap-1/blob/main/Images/Fishstrap.png" alt="Fishstrap" width="17" height="17"/> [Fishstrap](http://github.com/returnrqt/fishstrap-1) <sup>`FOSS`</sup> <sup>`FORK`</sup>
   - <img src="https://github.com/voidstrap/Voidstrap/blob/main/Bloxstrap/Voidstrap.png" alt="Voidstrap" width="15" height="17"/> [Voidstrap](http://github.com/midaskira/Voidstrap) <sup>`FOSS`</sup> <sup>`FORK`</sup>
 - <img src="https://github.com/MaximumADHD/Roblox-Studio-Mod-Manager/blob/main/ProjectSrc/Resources/Logo.png" alt="RbxSModManager" width="17" height="17"/> [Roblox Studio Mod Manager](http://github.com/MaximumADHD/Roblox-Studio-Mod-Manager) <sup>`FOSS`</sup>
   - <img src="https://github.com/MaximumADHD/Roblox-Studio-Mod-Manager/blob/main/ProjectSrc/Resources/Logo.png" alt="RbxSModManager" width="17" height="17"/> [Roblox Player Mod Manager](http://github.com/Malte0621/Roblox-Player-Mod-Manager) <sup>`🪦`</sup> <sup>`FOSS`</sup> <sup>`FORK`</sup>
