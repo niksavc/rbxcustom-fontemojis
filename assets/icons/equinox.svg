@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="300mm"
+   height="300mm"
+   viewBox="0 0 300 300"
+   version="1.1"
+   id="svg1"
+   sodipodi:docname="equinox.svg"
+   inkscape:version="1.4.2 (ebf0e940d0, 2025-05-08)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <title
+     id="title13">Equinox</title>
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="true"
+     inkscape:deskcolor="#505050"
+     inkscape:document-units="mm"
+     inkscape:zoom="0.50394254"
+     inkscape:cx="495.09613"
+     inkscape:cy="559.58761"
+     inkscape:window-width="1920"
+     inkscape:window-height="1011"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs1">
+    <inkscape:path-effect
+       effect="fillet_chamfer"
+       id="path-effect13"
+       is_visible="true"
+       lpeversion="1"
+       nodesatellites_param="F,0,0,1,0,27.414953,0,1 @ F,0,0,1,0,27.414953,0,1 @ F,0,0,1,0,27.414953,0,1 @ F,0,0,1,0,27.414953,0,1"
+       radius="0"
+       unit="px"
+       method="auto"
+       mode="F"
+       chamfer_steps="1"
+       flexible="false"
+       use_knot_distance="true"
+       apply_no_radius="true"
+       apply_with_radius="true"
+       only_selected="false"
+       hide_knots="false" />
+    <linearGradient
+       id="linearGradient12"
+       inkscape:collect="always">
+      <stop
+         style="stop-color:#ffffff;stop-opacity:0;"
+         offset="0.74929345"
+         id="stop13" />
+      <stop
+         style="stop-color:#000000;stop-opacity:1;"
+         offset="0.74929345"
+         id="stop12" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient10"
+       inkscape:collect="always">
+      <stop
+         style="stop-color:#ffffff;stop-opacity:1;"
+         offset="0"
+         id="stop10" />
+      <stop
+         style="stop-color:#ffffff;stop-opacity:0;"
+         offset="1"
+         id="stop11" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient5"
+       inkscape:collect="always">
+      <stop
+         style="stop-color:#7964ff;stop-opacity:1;"
+         offset="0"
+         id="stop5" />
+      <stop
+         style="stop-color:#0078ff;stop-opacity:1;"
+         offset="1"
+         id="stop6" />
+    </linearGradient>
+    <rect
+       x="332.54646"
+       y="57.529134"
+       width="711.39685"
+       height="711.39685"
+       id="rect2" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient5"
+       id="radialGradient8"
+       cx="87.216026"
+       cy="213.10387"
+       fx="87.216026"
+       fy="213.10387"
+       r="125.29688"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.8192221,5.0612866e-6,-5.3118573e-6,1.9092869,-65.892103,-199.64894)" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient10"
+       id="linearGradient11"
+       x1="343.04938"
+       y1="67.80783"
+       x2="529.23206"
+       y2="67.80783"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient12"
+       id="linearGradient13"
+       x1="343.04938"
+       y1="67.80783"
+       x2="568.12268"
+       y2="135.06111"
+       gradientUnits="userSpaceOnUse" />
+    <rect
+       x="332.54646"
+       y="57.529134"
+       width="711.39685"
+       height="711.39685"
+       id="rect13" />
+  </defs>
+  <g
+     inkscape:label="Equinox"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="matrix(1.061208,0,0,1.061208,-10.155378,-8.3393062)">
+    <path
+       d="m 439.69541,165.47719 q -28.94534,0 -49.93494,-11.84897 -20.9896,-11.84897 -32.33076,-33.68492 -11.17188,-21.835962 -11.17188,-51.796928 0,-29.283881 11.17188,-51.28911 11.34116,-22.0052292 31.65368,-34.362012 20.48179,-12.356782 48.07296,-12.356782 24.71356,0 44.85681,10.494801 20.14325,10.494802 31.99222,31.822947 12.01824,21.328145 12.01824,53.658905 V 80.333884 H 396.53131 q 0.84636,23.190126 12.8646,35.039096 12.01824,11.84897 31.14586,11.84897 13.37241,0 22.85158,-5.58594 9.64845,-5.75522 13.71095,-16.75783 l 46.04171,8.63282 q -6.94011,23.52867 -28.77607,37.74743 -21.66668,14.21876 -54.67453,14.21876 z M 396.86985,48.510937 H 477.1043 Q 475.24232,30.060399 465.25533,19.227056 455.26834,8.3937122 437.66416,8.3937122 q -18.28127,0 -28.77607,11.3411568 -10.4948,11.171885 -12.01824,28.776068 z"
+       id="text13"
+       style="font-weight:bold;font-size:346.667px;line-height:0;font-family:Inter;-inkscape-font-specification:'Inter Bold';white-space:pre;fill:none;stroke:#000000;stroke-width:6.34864;stroke-linecap:square;paint-order:markers stroke fill"
+       inkscape:label="e_outline"
+       transform="matrix(1.207365,-0.36076805,0.36076805,1.207365,-385.69348,212.66452)"
+       aria-label="e" />
+    <path
+       style="fill:url(#radialGradient8);fill-opacity:1;stroke:#000000;stroke-width:8;stroke-linecap:square;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+       id="rect1"
+       width="250.59375"
+       height="250.59375"
+       x="24.703125"
+       y="24.703125"
+       ry="0"
+       inkscape:path-effect="#path-effect13"
+       sodipodi:type="rect"
+       rx="0"
+       d="m 52.118078,24.703125 195.763842,0 a 27.414953,27.414953 45 0 1 27.41495,27.414953 V 247.88192 a 27.414953,27.414953 135 0 1 -27.41495,27.41495 H 52.118078 A 27.414953,27.414953 45 0 1 24.703125,247.88192 l 0,-195.763842 A 27.414953,27.414953 135 0 1 52.118078,24.703125 Z"
+       inkscape:label="Blue_rec"
+       transform="translate(0.91798969,-0.79333533)" />
+    <path
+       d="m 439.69541,165.47719 q -28.94534,0 -49.93494,-11.84897 -20.9896,-11.84897 -32.33076,-33.68492 -11.17188,-21.835962 -11.17188,-51.796928 0,-29.283881 11.17188,-51.28911 11.34116,-22.0052292 31.65368,-34.362012 20.48179,-12.356782 48.07296,-12.356782 24.71356,0 44.85681,10.494801 20.14325,10.494802 31.99222,31.822947 12.01824,21.328145 12.01824,53.658905 V 80.333884 H 396.53131 q 0.84636,23.190126 12.8646,35.039096 12.01824,11.84897 31.14586,11.84897 13.37241,0 22.85158,-5.58594 9.64845,-5.75522 13.71095,-16.75783 l 46.04171,8.63282 q -6.94011,23.52867 -28.77607,37.74743 -21.66668,14.21876 -54.67453,14.21876 z M 396.86985,48.510937 H 477.1043 Q 475.24232,30.060399 465.25533,19.227056 455.26834,8.3937122 437.66416,8.3937122 q -18.28127,0 -28.77607,11.3411568 -10.4948,11.171885 -12.01824,28.776068 z"
+       id="text1"
+       style="font-weight:bold;font-size:346.667px;line-height:0;font-family:Inter;-inkscape-font-specification:'Inter Bold';white-space:pre;fill:#ffffff;stroke-width:6.41689;stroke-linecap:square;stroke-opacity:0.296026;paint-order:markers stroke fill"
+       inkscape:label="White_e"
+       transform="matrix(1.207365,-0.36076805,0.36076805,1.207365,-385.69347,212.66452)"
+       aria-label="e" />
+  </g>
+  <metadata
+     id="metadata13">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:title>Equinox</dc:title>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>AshtakaOOf</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <dc:description>Equinox'ing so hard rn</dc:description>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+</svg>
