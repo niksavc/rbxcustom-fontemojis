@@ -26,7 +26,7 @@ You can use custom emojis on Roblox! Alternatives for Twemoji (FOSS).
 #### ✨Clients:
 - <img src="https://github.com/niksavc/rbxcustom-fontemojis/blob/main/assets/icons/roblox.png" alt="Roblox" width="17" height="17"/> [Roblox](http://www.roblox.com/) 
 - <img src="https://github.com/niksavc/rbxcustom-fontemojis/blob/main/assets/icons/Bloxstrap.png" alt="Bloxstrap" width="17" height="17"/> [Bloxstrap](http://github.com/pizzaboxer/bloxstrap) <sup>`FOSS`</sup>
-  - <img src="https://github.com/niksavc/rbxcustom-fontemojis/blob/main/assets/icons/Fishstrap.png" alt="Fishstrap" width="17" height="17"/> [Fishstrap](http://github.com/returnrqt/fishstrap-1) <sup>`FOSS`</sup> <sup>`FORK`</sup>
+  - <img src="https://github.com/niksavc/rbxcustom-fontemojis/blob/main/assets/icons/Fishstrap.png" alt="Fishstrap" width="17" height="17"/> [Fishstrap](http://github.com/fishstrap/fishstrap) <sup>`FOSS`</sup> <sup>`FORK`</sup>
   - <img src="https://github.com/niksavc/rbxcustom-fontemojis/blob/main/assets/icons/Voidstrap.png" alt="Voidstrap" width="15" height="17"/> [Voidstrap](http://github.com/midaskira/Voidstrap) <sup>`FOSS`</sup> <sup>`FORK`</sup>
 - <img src="https://github.com/niksavc/rbxcustom-fontemojis/blob/main/assets/icons/rsmm.png" alt="RbxSModManager" width="17" height="17"/> [Roblox Studio Mod Manager](http://github.com/MaximumADHD/Roblox-Studio-Mod-Manager) <sup>`FOSS`</sup>
   - <img src="https://github.com/niksavc/rbxcustom-fontemojis/blob/main/assets/icons/rsmm.png" alt="RbxSModManager" width="17" height="17"/> [Roblox Player Mod Manager](http://github.com/Malte0621/Roblox-Player-Mod-Manager) <sup>`🪦`</sup> <sup>`FOSS`</sup> <sup>`FORK`</sup>
@@ -59,7 +59,7 @@ You can use custom emojis on Roblox! Alternatives for Twemoji (FOSS).
 - [x] Twitter BnW/Color Emojis SVGinOT (U: 15) **[U: 16]** <sup>`📆`</sup> <sup>`FOSS`</sup>
 - [x] MSWindows Color Emojis (8.0, 8.1, 10, 11.) (U: 6/14) <sup>`🪦`</sup>
 - [x] Noto BnW Emojis (U: 14/16) **[U: 17]** <sup>`📆`</sup> <sup>`FOSS`</sup>
-- [x] OpenMoji BnW Emojis (U: 16) **[U: 17]** <sup>`📆`</sup> <sup>`FOSS`</sup>
+- [x] OpenMoji BnW Emojis (U: 17) **[U: 18]** <sup>`📆`</sup> <sup>`FOSS`</sup>
 - [x] Mona12 BnW/Color Emojis (U: 17) **[U: 18]** <sup>`📆`</sup> <sup>`FOSS`</sup>
 - [x] Twemojiwin98se Color Emoji (U: 17) **[U: 18]** <sup>`📆`</sup> <sup>`FOSS`</sup> <sup>`FORK`</sup>
 - [x] Twemojit3chguy Color Emoji (U: 15) **[U: 16]** <sup>`📆`</sup> <sup>`FOSS`</sup> <sup>`FORK`</sup>
